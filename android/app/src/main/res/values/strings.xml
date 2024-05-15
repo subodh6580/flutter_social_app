@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">fb_key</string>
+    <string name="facebook_client_token">token</string>
+    <string name="admob_id">google_admob_key_for_android</string>
+    <string name="google_map_id">google_map_api_key</string>
+
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+</resources>
